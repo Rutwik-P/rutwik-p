@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 "# rutwik-p"
 
 <h1 align="center">Hi 👋, I'm Rutwik Patil</h1>
